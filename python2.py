@@ -9,4 +9,4 @@ client = Client("AC8f15d0443944ede040ce58edf3ebdc4d", "3dcdfe2e3898389ac16df10e4
 # account to send SMS to any phone number
 client.messages.create(to="+32468307742", 
                        from_="+12078433545", 
-                       body="Hello from Python!")
+                       body="Hello from Python! Twilio trial account")
